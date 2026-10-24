@@ -6,3 +6,6 @@ data/
 
 # 生成脚本（本地维护，README 已渲染完整，不进仓库）
 scripts/
+
+# 工作约定（仅本地给 AI Agent 读，不进公开仓库）
+AGENTS.md
